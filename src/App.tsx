@@ -1,6 +1,6 @@
 
 import React from 'react'
-import style from './styles/App.scss'
+
 
 
 
@@ -8,7 +8,7 @@ const App: React.FC = () => {
     
     return (
         <div>
-            <h1 className={style.header}>Hello</h1>
+            <h1>Hello</h1>
         </div>
     )
 }
